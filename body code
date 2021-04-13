@@ -1,0 +1,37 @@
+  <!-- slider -->
+  <div id="carouselExampleControls" class="carousel slide" data-interval="1500" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img class="d-block w-100" height="615px" src="img/slider1.jpg" alt="First slide">
+        
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Graphic Design </h5>
+          <p>We Do a Professional Graphic Design</p>
+        </div>
+      </div>
+      
+      <div class="carousel-item">
+        <img class="d-block w-100" height="615px"src="img/slider2.jpg" alt="Second slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Wesite Design </h5>
+          <p>We Do a Professional Wesite Design</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100"  height="615px" src="img/slider3.jpg" alt="Third slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Wordpress Design </h5>
+          <p>We Do a Professional Wordpress Desig</p>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+  <!--slider end-->
